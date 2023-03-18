@@ -1,4 +1,5 @@
-public class ohio {
+public class Matrix {
+
     public static int[][] createMatrix(int numberOfRows, int numberOfColumns) {
         int[][] matrix = new int[numberOfRows][numberOfColumns];
         int x = 0;
